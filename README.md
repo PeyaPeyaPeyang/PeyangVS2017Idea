@@ -1,6 +1,9 @@
 ## Peyang Visualstudio 2017 Java Color Scheme and Code Style
 Visual studio 2017最強！！！
 
+## ダウンロード
+[こ↑こ↓](https://github.com/peyang-Celeron/PeyangVS2017Idea/releases)からダウンロードして、どうぞ
+
 ## 概要
 
 Visual studio 2017のJava用カラースキームとコードスタイルを提供します。  
@@ -15,3 +18,4 @@ Visual studio 2017のJava用カラースキームとコードスタイルを提�
 
 ## スクリーンショット
 
+![SS1](https://github.com/peyang-Celeron/PeyangVS2017Idea/raw/main/screenshot1.png)
