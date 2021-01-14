@@ -22,6 +22,8 @@ Visual studio 2017のJava用カラースキームとコードスタイルを提�
 
 ![SS1](https://github.com/peyang-Celeron/PeyangVS2017Idea/raw/main/screenshot1.png)
 
+注)このレインボーな括弧は、[Rainbow Brackets](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets)を使用しており、  
+本カラースキーム, コードスタイルには付属しません。
 
 ## 謝辞
 このカラースキームは、[Darcula](https://github.com/dracula/dracula-theme)を魔改造し作成されました。  
