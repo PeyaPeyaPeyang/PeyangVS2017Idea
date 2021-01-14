@@ -19,3 +19,7 @@ Visual studio 2017のJava用カラースキームとコードスタイルを提�
 ## スクリーンショット
 
 ![SS1](https://github.com/peyang-Celeron/PeyangVS2017Idea/raw/main/screenshot1.png)
+
+
+## 謝辞
+このカラースキームは、[Darcula](https://github.com/dracula/dracula-theme)を魔改造し作成されました。  
