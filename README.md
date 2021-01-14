@@ -8,6 +8,8 @@ Visual studio 2017最強！！！
 
 Visual studio 2017のJava用カラースキームとコードスタイルを提供します。  
 
+`PeyangVS2017Scheme.xml`がコードスタイルで、`PeyangVS2017Theme.icls`がカラースキームです。
+
 ## 動作環境\(確認済み\)
 
 + JetBrains Intellij IDEA 2019.2 Community
