@@ -1,5 +1,5 @@
-## Peyang Visualstudio 2017 Java Color Scheme and Code Style
-Visual studio 2017最強！！！
+# Peyang Visualstudio 2017 Java Color Scheme and Code Style
+
 
 ## ダウンロード
 [こ↑こ↓](https://github.com/peyang-Celeron/PeyangVS2017Idea/releases)からダウンロードして、どうぞ
